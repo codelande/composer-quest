@@ -1,0 +1,16 @@
+{
+    "name": "corentin/comooser",
+    "description": "quete",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "codelande",
+            "email": "corentin-delande_student2022@wilder.school"
+        }
+    ],
+    "require": {}
+}
